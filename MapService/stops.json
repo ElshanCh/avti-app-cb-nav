@@ -1,0 +1,402 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "2ec533922842f71d",
+                "name": "Milano Centrale",
+                "matched_name": "Milan (I)",
+                "country_code": "IT",
+                "rank": 0.5899899285315329,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": true,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {
+                    "rail": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "19",
+                        "20",
+                        "21",
+                        "22",
+                        "23",
+                        "24"
+                    ]
+                },
+                "ifopt": null,
+                "municipality_name": "Milano",
+                "ident_source": "sbb",
+                "id": "8301700",
+                "code": "MICL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.204685969,
+                    45.486281852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "5a40e9fffb1b53fe",
+                "name": "Milan",
+                "matched_name": "Milan",
+                "country_code": "FR",
+                "rank": 0.6260989031621388,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Cholet",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.86870035,
+                    47.04068135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "a74d4b6e84bf28b9",
+                "name": "Milan",
+                "matched_name": "Milan",
+                "country_code": "FR",
+                "rank": 0.6285714260169438,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Lempdes",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2063866,
+                    45.7809283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "ee2de8b03a3c6f9d",
+                "name": "Milan",
+                "matched_name": "Milan",
+                "country_code": "FR",
+                "rank": 0.6307142875024251,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Perpignan",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8598298,
+                    42.68962785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "df9424fbba1a967e",
+                "name": "Milano Porta Garibaldi",
+                "matched_name": "Milano",
+                "country_code": "IT",
+                "rank": 0.6322600538047829,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": true,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {
+                    "rail": [
+                        "1",
+                        "1 sotterraneo",
+                        "2",
+                        "2 sotterraneo",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "19",
+                        "20"
+                    ]
+                },
+                "ifopt": null,
+                "municipality_name": "Milano",
+                "ident_source": "sbb",
+                "id": "8301645",
+                "code": "MIGA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.186747858,
+                    45.485026862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "839fb87b80c5a70d",
+                "name": "Milanów",
+                "matched_name": "Milanów",
+                "country_code": "PL",
+                "rank": 0.6376190498897008,
+                "translated_names": [],
+                "mot": {
+                    "bus": false,
+                    "rail": true,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Milanów",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8751442,
+                    51.7002972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "38175401a6df98ad",
+                "name": "Moscatelar - Milan",
+                "matched_name": "Moscatelar - Milan",
+                "country_code": "ES",
+                "rank": 0.6402597418853215,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {
+                    "bus": [
+                        "389",
+                        "390"
+                    ]
+                },
+                "ifopt": null,
+                "municipality_name": "Madrid",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.647075,
+                    40.45712945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "63e255309ba5c807",
+                "name": "Nidau, Milanweg/Chemin Milan",
+                "matched_name": "Milanweg/Chemin Milan",
+                "country_code": "CH",
+                "rank": 0.6407660417836536,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Nidau",
+                "ident_source": "sbb",
+                "id": "8592483",
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.247199,
+                    47.12708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "9d997750212e6db8",
+                "name": "AV.ATENAS-MILÁN",
+                "matched_name": "AV.ATENAS-MILÁN",
+                "country_code": "ES",
+                "rank": 0.6411490685173443,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Alcorcón",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8392202,
+                    40.34710655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "83abeddcc073d938",
+                "name": "Cesenatico Carducci/Milan",
+                "matched_name": "Cesenatico Carducci/Milan",
+                "country_code": "IT",
+                "rank": 0.6427142849990299,
+                "translated_names": [],
+                "mot": {
+                    "bus": true,
+                    "rail": false,
+                    "tram": false,
+                    "ferry": false,
+                    "subway": false,
+                    "gondola": false,
+                    "cable_car": false,
+                    "funicular": false
+                },
+                "platforms": {},
+                "ifopt": null,
+                "municipality_name": "Cesenatico",
+                "ident_source": null,
+                "id": null,
+                "code": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.410171,
+                    44.1954198
+                ]
+            }
+        }
+    ]
+}

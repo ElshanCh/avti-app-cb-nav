@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  cb-nav:
+    ports:
+    - mode: ingress
+      target: 5001
+      published: 5001
+    ## SWARM
+    # deploy:
+    #   replicas: 1
+    #   placement:
+    #     constraints:
+    #       - "node.labels.project==publish"
+    #       - "node.labels.role==db-server"
