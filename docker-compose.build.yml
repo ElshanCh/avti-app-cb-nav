@@ -1,0 +1,50 @@
+version: "3.9"
+
+services:
+  mapservice:
+    build:
+      context: ./MapService
+      dockerfile: ../Dockerfile
+      x-bake:
+        tags:
+        - ${DOCKER_IMAGE}/mapservice:${DEPLOY_VERSION}-${DEPLOY_ENV}
+        - ${DOCKER_IMAGE_CACHE}/mapservice:build-cache
+        - ${DOCKER_IMAGE_LATEST}/mapservice:latest-${DEPLOY_ENV}
+        cache_from:
+        - ${DOCKER_IMAGE_CACHE}/mapservice:build-cache
+        cache_to:
+        - ${DOCKER_IMAGE_CACHE}/mapservice:build-cache
+        output: type=registry
+        push: true
+        pull: true
+      args:
+        PY_V: ${PY_V}
+        _USER: ${MS_USER}
+        _GROUP: ${MS_GROUP}
+        UID: ${UID}
+        GID: ${GID}
+        WORKDIR: ${MS_WORKDIR}
+
+  skedgo:
+    build:
+      context: ./SkedGo
+      dockerfile: ../Dockerfile
+      x-bake:
+        tags:
+        - ${DOCKER_IMAGE}/skedgo:${DEPLOY_VERSION}-${DEPLOY_ENV}
+        - ${DOCKER_IMAGE_CACHE}/skedgo:build-cache
+        - ${DOCKER_IMAGE_LATEST}/skedgo:latest-${DEPLOY_ENV}
+        cache_from:
+        - ${DOCKER_IMAGE_CACHE}/skedgo:build-cache
+        cache_to:
+        - ${DOCKER_IMAGE_CACHE}/skedgo:build-cache
+        output: type=registry
+        push: true
+        pull: true
+      args:
+        PY_V: ${PY_V}
+        _USER: ${SG_USER}
+        _GROUP: ${SG_GROUP}
+        UID: ${UID}
+        GID: ${GID}
+        WORKDIR: ${SG_WORKDIR}

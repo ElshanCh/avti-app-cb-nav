@@ -1,0 +1,10 @@
+.git
+.gitignore
+
+.env
+
+gitlab-ci.yml
+docker-compose.*yml
+Dockerfile
+.dockerignore
+README.md

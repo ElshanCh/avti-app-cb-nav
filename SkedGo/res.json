@@ -1,0 +1,1764 @@
+[
+    {
+        "segment_id": "aKBzb8GC",
+        "segment_data": {
+            "availability": "AVAILABLE",
+            "endTime": "2023-06-05 11:45:59",
+            "segmentTemplateHashCode": -371659303,
+            "startTime": "2023-06-05 11:25:11",
+            "routeDirection": NaN,
+            "routeID": NaN,
+            "routeId": NaN,
+            "serviceDirection": NaN,
+            "serviceName": NaN,
+            "serviceNumber": NaN,
+            "serviceShortName": NaN,
+            "serviceTripID": NaN,
+            "stops": NaN,
+            "ticketWebsiteURL": NaN,
+            "wheelchairAccessible": NaN,
+            "externalData": {
+                "directionId": NaN,
+                "operatorName": NaN,
+                "routeId": NaN,
+                "stopId": NaN,
+                "type": NaN
+            },
+            "serviceTextColor": {
+                "blue": NaN,
+                "green": NaN,
+                "red": NaN
+            },
+            "serviceColor": {
+                "blue": NaN,
+                "green": NaN,
+                "red": NaN
+            },
+            "action": "<TIME>: Walk",
+            "hashCode": -371659303,
+            "metres": 1418.0,
+            "modeIdentifier": "wa_wal",
+            "notes": "<DURATION> \\u22c5 1.5 km",
+            "streets": [
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47703,
+                            9.17825
+                        ],
+                        [
+                            45.4771,
+                            9.17861
+                        ],
+                        [
+                            45.47733,
+                            9.18001
+                        ],
+                        [
+                            45.47736,
+                            9.18024
+                        ],
+                        [
+                            45.47743,
+                            9.18073
+                        ],
+                        [
+                            45.47744,
+                            9.18077
+                        ],
+                        [
+                            45.47743,
+                            9.1808
+                        ],
+                        [
+                            45.47748,
+                            9.18094
+                        ],
+                        [
+                            45.47748,
+                            9.18094
+                        ]
+                    ],
+                    "instruction": "HEAD_TOWARDS",
+                    "metres": 217,
+                    "name": "Viale Elvezia"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47748,
+                            9.18094
+                        ],
+                        [
+                            45.47748,
+                            9.18095
+                        ],
+                        [
+                            45.47749,
+                            9.18103
+                        ],
+                        [
+                            45.47754,
+                            9.18113
+                        ],
+                        [
+                            45.47758,
+                            9.18123
+                        ]
+                    ],
+                    "instruction": "CONTINUE_STRAIGHT",
+                    "metres": 26,
+                    "name": "Piazzale Biancamano"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47758,
+                            9.18123
+                        ],
+                        [
+                            45.4776,
+                            9.18137
+                        ],
+                        [
+                            45.4777,
+                            9.18314
+                        ],
+                        [
+                            45.47773,
+                            9.18322
+                        ],
+                        [
+                            45.47786,
+                            9.18339
+                        ],
+                        [
+                            45.47783,
+                            9.18348
+                        ],
+                        [
+                            45.4778,
+                            9.18385
+                        ],
+                        [
+                            45.47775,
+                            9.1841
+                        ],
+                        [
+                            45.47773,
+                            9.18416
+                        ],
+                        [
+                            45.47771,
+                            9.18426
+                        ],
+                        [
+                            45.47769,
+                            9.18442
+                        ],
+                        [
+                            45.47768,
+                            9.1845
+                        ],
+                        [
+                            45.47766,
+                            9.18463
+                        ],
+                        [
+                            45.47762,
+                            9.18473
+                        ],
+                        [
+                            45.4776,
+                            9.1849
+                        ],
+                        [
+                            45.4776,
+                            9.18493
+                        ],
+                        [
+                            45.47733,
+                            9.18622
+                        ],
+                        [
+                            45.4773,
+                            9.18625
+                        ],
+                        [
+                            45.4773,
+                            9.18632
+                        ],
+                        [
+                            45.47727,
+                            9.18637
+                        ],
+                        [
+                            45.47706,
+                            9.18767
+                        ],
+                        [
+                            45.47703,
+                            9.1877
+                        ],
+                        [
+                            45.47702,
+                            9.18774
+                        ],
+                        [
+                            45.477,
+                            9.1878
+                        ],
+                        [
+                            45.47701,
+                            9.18787
+                        ],
+                        [
+                            45.477,
+                            9.18804
+                        ],
+                        [
+                            45.47692,
+                            9.18834
+                        ],
+                        [
+                            45.47689,
+                            9.18839
+                        ],
+                        [
+                            45.47689,
+                            9.18842
+                        ],
+                        [
+                            45.4769,
+                            9.1885
+                        ],
+                        [
+                            45.47689,
+                            9.18857
+                        ],
+                        [
+                            45.47688,
+                            9.18861
+                        ],
+                        [
+                            45.47693,
+                            9.1886
+                        ]
+                    ],
+                    "instruction": "CONTINUE_STRAIGHT",
+                    "metres": 607,
+                    "name": "Via di Porta Tenaglia"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47693,
+                            9.1886
+                        ],
+                        [
+                            45.47679,
+                            9.18945
+                        ],
+                        [
+                            45.47671,
+                            9.18985
+                        ],
+                        [
+                            45.4767,
+                            9.18994
+                        ],
+                        [
+                            45.47654,
+                            9.1907
+                        ],
+                        [
+                            45.47653,
+                            9.19081
+                        ],
+                        [
+                            45.47651,
+                            9.19092
+                        ],
+                        [
+                            45.47637,
+                            9.19167
+                        ],
+                        [
+                            45.47635,
+                            9.19176
+                        ],
+                        [
+                            45.47634,
+                            9.19182
+                        ],
+                        [
+                            45.47633,
+                            9.19192
+                        ],
+                        [
+                            45.47598,
+                            9.1937
+                        ],
+                        [
+                            45.47587,
+                            9.19433
+                        ]
+                    ],
+                    "instruction": "TURN_RIGHT",
+                    "metres": 461,
+                    "name": "Via della Moscova"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47587,
+                            9.19433
+                        ],
+                        [
+                            45.47585,
+                            9.19443
+                        ],
+                        [
+                            45.47583,
+                            9.19452
+                        ],
+                        [
+                            45.47567,
+                            9.19459
+                        ],
+                        [
+                            45.47565,
+                            9.19459
+                        ]
+                    ],
+                    "instruction": "CONTINUE_STRAIGHT",
+                    "metres": 36,
+                    "name": "Piazza Stati Uniti d\'America"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47565,
+                            9.19459
+                        ],
+                        [
+                            45.47559,
+                            9.19462
+                        ],
+                        [
+                            45.4753,
+                            9.19467
+                        ],
+                        [
+                            45.47524,
+                            9.19468
+                        ]
+                    ],
+                    "instruction": "TURN_SLIGHTLY_LEFT",
+                    "metres": 46,
+                    "name": "Largo Guido Donegani"
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47524,
+                            9.19468
+                        ],
+                        [
+                            45.47504,
+                            9.1947
+                        ]
+                    ],
+                    "instruction": "CONTINUE_STRAIGHT",
+                    "metres": 23,
+                    "name": "Via Filippo Turati"
+                }
+            ],
+            "travelDirection": 81.0,
+            "turn-by-turn": "WALKING",
+            "type": "unscheduled",
+            "visibility": "in summary",
+            "from": {
+                "address": "Near Viale Elvezia",
+                "class": "Location",
+                "lat": 45.47704,
+                "lng": 9.17826,
+                "region": "IT_Milano",
+                "timezone": "Europe/Rome",
+                "code": NaN,
+                "id": NaN,
+                "modeInfo": {
+                    "alt": NaN,
+                    "identifier": NaN,
+                    "localIcon": NaN
+                },
+                "name": NaN,
+                "popularity": NaN,
+                "publicTransportMode": NaN,
+                "services": NaN,
+                "stopCode": NaN,
+                "stopType": NaN,
+                "wheelchairAccessible": NaN
+            },
+            "localCost": {
+                "accuracy": "internal_estimate",
+                "cost": 0.0,
+                "currency": "EUR"
+            },
+            "mini": {
+                "description": "Turati",
+                "instruction": "Walk",
+                "mainValue": "1.5 km"
+            },
+            "modeInfo": {
+                "alt": "Walk",
+                "color": {
+                    "blue": 99.0,
+                    "green": 199.0,
+                    "red": 30.0
+                },
+                "identifier": "wa_wal",
+                "localIcon": "walk"
+            },
+            "to": {
+                "address": "Turati",
+                "class": "StopLocation",
+                "code": "TURATI",
+                "id": "pt_pub|IT_Milano|TURATI",
+                "lat": 45.47504,
+                "lng": 9.19471,
+                "modeInfo": {
+                    "alt": "subway",
+                    "identifier": "pt_pub_subway",
+                    "localIcon": "subway"
+                },
+                "name": "Turati",
+                "popularity": 1148.0,
+                "publicTransportMode": "pt_pub_subway",
+                "region": "IT_Milano",
+                "services": "",
+                "stopCode": "TURATI",
+                "stopType": "subway",
+                "timezone": "Europe/Rome",
+                "wheelchairAccessible": true
+            },
+            "endStopCode": NaN,
+            "geofences": NaN,
+            "operator": NaN,
+            "operatorID": NaN,
+            "serviceOperator": NaN,
+            "shapes": NaN,
+            "sources": NaN,
+            "stopCode": NaN,
+            "location": {
+                "address": NaN,
+                "class": NaN,
+                "code": NaN,
+                "id": NaN,
+                "lat": NaN,
+                "lng": NaN,
+                "modeInfo": {
+                    "alt": NaN,
+                    "identifier": NaN,
+                    "localIcon": NaN
+                },
+                "name": NaN,
+                "popularity": NaN,
+                "publicTransportMode": NaN,
+                "region": NaN,
+                "services": NaN,
+                "stopCode": NaN,
+                "stopType": NaN,
+                "timezone": NaN,
+                "wheelchairAccessible": NaN
+            },
+            "duration": 20
+        }
+    },
+    {
+        "segment_id": "bDbeXIYI",
+        "segment_data": {
+            "availability": "AVAILABLE",
+            "endTime": "2023-06-05 11:53:00",
+            "segmentTemplateHashCode": -1535881186,
+            "startTime": "2023-06-05 11:45:59",
+            "routeDirection": NaN,
+            "routeID": "M3",
+            "routeId": "M3",
+            "serviceDirection": "comasina",
+            "serviceName": "m3 - linea gialla",
+            "serviceNumber": "3",
+            "serviceShortName": "",
+            "serviceTripID": "SAN DONATO___COMASINA_l_20220905_86",
+            "stops": 5.0,
+            "ticketWebsiteURL": "http://www.atm.it/",
+            "wheelchairAccessible": true,
+            "externalData": {
+                "directionId": NaN,
+                "operatorName": "ATM",
+                "routeId": "M3",
+                "stopId": "TURATI",
+                "type": "gtfs"
+            },
+            "serviceTextColor": {
+                "blue": 0.0,
+                "green": 0.0,
+                "red": 0.0
+            },
+            "serviceColor": {
+                "blue": 1.0,
+                "green": 255.0,
+                "red": 252.0
+            },
+            "action": "<TIME>: Take <NUMBER>",
+            "hashCode": -1535881186,
+            "metres": NaN,
+            "modeIdentifier": "pt_pub",
+            "notes": "<LINE_NAME>\\n<DIRECTION>\\n<PLATFORM>\\n<DURATION> \\u22c5 <STOPS>",
+            "streets": NaN,
+            "travelDirection": 337.0,
+            "turn-by-turn": NaN,
+            "type": "scheduled",
+            "visibility": "in summary",
+            "from": {
+                "address": "Turati",
+                "class": "StopLocation",
+                "lat": 45.47504,
+                "lng": 9.19471,
+                "region": "IT_Milano",
+                "timezone": "Europe/Rome",
+                "code": "TURATI",
+                "id": "pt_pub|IT_Milano|TURATI",
+                "modeInfo": {
+                    "alt": "subway",
+                    "identifier": "pt_pub_subway",
+                    "localIcon": "subway"
+                },
+                "name": "Turati",
+                "popularity": 1148.0,
+                "publicTransportMode": "pt_pub_subway",
+                "services": "",
+                "stopCode": "TURATI",
+                "stopType": "subway",
+                "wheelchairAccessible": true
+            },
+            "localCost": {
+                "accuracy": NaN,
+                "cost": NaN,
+                "currency": NaN
+            },
+            "mini": {
+                "description": "<DIRECTION>",
+                "instruction": "Take <NUMBER> \\u22c5 <PLATFORM>",
+                "mainValue": NaN
+            },
+            "modeInfo": {
+                "alt": "Subway",
+                "color": {
+                    "blue": 104.0,
+                    "green": 197.0,
+                    "red": 45.0
+                },
+                "identifier": "pt_pub_subway",
+                "localIcon": "subway"
+            },
+            "to": {
+                "address": "Maciachini",
+                "class": "StopLocation",
+                "code": "MACIACHINI",
+                "id": "pt_pub|IT_Milano|MACIACHINI",
+                "lat": 45.49768,
+                "lng": 9.18503,
+                "modeInfo": {
+                    "alt": "subway",
+                    "identifier": "pt_pub_subway",
+                    "localIcon": "subway"
+                },
+                "name": "Maciachini",
+                "popularity": 1148.0,
+                "publicTransportMode": "pt_pub_subway",
+                "region": "IT_Milano",
+                "services": "",
+                "stopCode": "MACIACHINI",
+                "stopType": "subway",
+                "timezone": "Europe/Rome",
+                "wheelchairAccessible": true
+            },
+            "endStopCode": "MACIACHINI",
+            "geofences": [
+                {
+                    "center": {
+                        "lat": 45.49768370103575,
+                        "lng": 9.185030507888225
+                    },
+                    "id": "NEXT_STOP_IS_YOURS_SAN DONATO___COMASINA_l_20220905_103",
+                    "messageBody": "Disembark at Maciachini",
+                    "messageTitle": "Next stop is yours",
+                    "messageType": "NEXT_STOP_IS_YOURS",
+                    "radius": 712,
+                    "trigger": "ENTER",
+                    "type": "CIRCLE"
+                }
+            ],
+            "operator": "ATM",
+            "operatorID": "AMAT_Milan_feed",
+            "serviceOperator": "ATM",
+            "shapes": [
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.45141,
+                            9.20337
+                        ],
+                        [
+                            45.45141,
+                            9.20337
+                        ],
+                        [
+                            45.45187,
+                            9.2026
+                        ],
+                        [
+                            45.45287,
+                            9.201
+                        ],
+                        [
+                            45.45414,
+                            9.19895
+                        ],
+                        [
+                            45.45559,
+                            9.19661
+                        ],
+                        [
+                            45.45596,
+                            9.19601
+                        ],
+                        [
+                            45.45631,
+                            9.19543
+                        ],
+                        [
+                            45.45655,
+                            9.1951
+                        ],
+                        [
+                            45.45655,
+                            9.1951
+                        ],
+                        [
+                            45.45655,
+                            9.1951
+                        ],
+                        [
+                            45.4568,
+                            9.19467
+                        ],
+                        [
+                            45.45728,
+                            9.19388
+                        ],
+                        [
+                            45.45749,
+                            9.19353
+                        ],
+                        [
+                            45.45826,
+                            9.19226
+                        ],
+                        [
+                            45.45848,
+                            9.19188
+                        ],
+                        [
+                            45.45897,
+                            9.19109
+                        ],
+                        [
+                            45.45907,
+                            9.19092
+                        ],
+                        [
+                            45.45928,
+                            9.19056
+                        ],
+                        [
+                            45.45954,
+                            9.19006
+                        ],
+                        [
+                            45.45961,
+                            9.18993
+                        ],
+                        [
+                            45.45969,
+                            9.18979
+                        ],
+                        [
+                            45.45971,
+                            9.18974
+                        ],
+                        [
+                            45.45987,
+                            9.18947
+                        ],
+                        [
+                            45.45992,
+                            9.18936
+                        ],
+                        [
+                            45.45995,
+                            9.1893
+                        ],
+                        [
+                            45.46003,
+                            9.18916
+                        ],
+                        [
+                            45.46008,
+                            9.18905
+                        ],
+                        [
+                            45.46011,
+                            9.18901
+                        ],
+                        [
+                            45.46011,
+                            9.18901
+                        ],
+                        [
+                            45.46013,
+                            9.18896
+                        ],
+                        [
+                            45.46017,
+                            9.18891
+                        ],
+                        [
+                            45.46021,
+                            9.18883
+                        ],
+                        [
+                            45.46025,
+                            9.18877
+                        ],
+                        [
+                            45.46041,
+                            9.18855
+                        ],
+                        [
+                            45.46059,
+                            9.18833
+                        ],
+                        [
+                            45.46065,
+                            9.18828
+                        ],
+                        [
+                            45.46078,
+                            9.18816
+                        ],
+                        [
+                            45.46096,
+                            9.18806
+                        ],
+                        [
+                            45.461,
+                            9.18803
+                        ],
+                        [
+                            45.46119,
+                            9.18798
+                        ],
+                        [
+                            45.46133,
+                            9.18796
+                        ],
+                        [
+                            45.46148,
+                            9.18796
+                        ],
+                        [
+                            45.46158,
+                            9.18797
+                        ],
+                        [
+                            45.46163,
+                            9.18798
+                        ],
+                        [
+                            45.46168,
+                            9.18798
+                        ],
+                        [
+                            45.46184,
+                            9.18803
+                        ],
+                        [
+                            45.46188,
+                            9.18805
+                        ],
+                        [
+                            45.46259,
+                            9.18834
+                        ],
+                        [
+                            45.46269,
+                            9.18838
+                        ],
+                        [
+                            45.46278,
+                            9.18841
+                        ],
+                        [
+                            45.46286,
+                            9.18842
+                        ],
+                        [
+                            45.46301,
+                            9.18845
+                        ],
+                        [
+                            45.46307,
+                            9.18846
+                        ],
+                        [
+                            45.46315,
+                            9.18847
+                        ],
+                        [
+                            45.46339,
+                            9.1885
+                        ],
+                        [
+                            45.46387,
+                            9.18859
+                        ],
+                        [
+                            45.46387,
+                            9.18859
+                        ],
+                        [
+                            45.46387,
+                            9.18849
+                        ],
+                        [
+                            45.46487,
+                            9.1885
+                        ],
+                        [
+                            45.46496,
+                            9.1885
+                        ],
+                        [
+                            45.46501,
+                            9.1885
+                        ],
+                        [
+                            45.46511,
+                            9.18851
+                        ],
+                        [
+                            45.46525,
+                            9.18852
+                        ],
+                        [
+                            45.4653,
+                            9.18852
+                        ],
+                        [
+                            45.4654,
+                            9.18854
+                        ],
+                        [
+                            45.46556,
+                            9.18858
+                        ],
+                        [
+                            45.46563,
+                            9.18859
+                        ],
+                        [
+                            45.46574,
+                            9.18863
+                        ],
+                        [
+                            45.4658,
+                            9.18864
+                        ],
+                        [
+                            45.46586,
+                            9.18867
+                        ],
+                        [
+                            45.46592,
+                            9.18869
+                        ],
+                        [
+                            45.46604,
+                            9.18876
+                        ],
+                        [
+                            45.46613,
+                            9.18879
+                        ],
+                        [
+                            45.46624,
+                            9.18887
+                        ],
+                        [
+                            45.46631,
+                            9.18892
+                        ],
+                        [
+                            45.4664,
+                            9.18897
+                        ],
+                        [
+                            45.4665,
+                            9.18908
+                        ],
+                        [
+                            45.46659,
+                            9.18914
+                        ],
+                        [
+                            45.46669,
+                            9.18924
+                        ],
+                        [
+                            45.46686,
+                            9.18941
+                        ],
+                        [
+                            45.46755,
+                            9.19012
+                        ],
+                        [
+                            45.46778,
+                            9.19035
+                        ],
+                        [
+                            45.46781,
+                            9.19039
+                        ],
+                        [
+                            45.46788,
+                            9.19045
+                        ],
+                        [
+                            45.46804,
+                            9.19062
+                        ],
+                        [
+                            45.46815,
+                            9.19074
+                        ],
+                        [
+                            45.46825,
+                            9.19083
+                        ],
+                        [
+                            45.46835,
+                            9.19094
+                        ],
+                        [
+                            45.46845,
+                            9.19104
+                        ],
+                        [
+                            45.46853,
+                            9.19112
+                        ],
+                        [
+                            45.46862,
+                            9.19121
+                        ],
+                        [
+                            45.46872,
+                            9.19133
+                        ],
+                        [
+                            45.46877,
+                            9.19137
+                        ],
+                        [
+                            45.46887,
+                            9.19148
+                        ],
+                        [
+                            45.46892,
+                            9.19155
+                        ],
+                        [
+                            45.469,
+                            9.19165
+                        ],
+                        [
+                            45.46908,
+                            9.19174
+                        ],
+                        [
+                            45.46913,
+                            9.19179
+                        ],
+                        [
+                            45.46924,
+                            9.19192
+                        ],
+                        [
+                            45.46943,
+                            9.19215
+                        ],
+                        [
+                            45.46964,
+                            9.19242
+                        ],
+                        [
+                            45.46973,
+                            9.19254
+                        ],
+                        [
+                            45.46982,
+                            9.19264
+                        ],
+                        [
+                            45.46991,
+                            9.19274
+                        ],
+                        [
+                            45.47,
+                            9.19284
+                        ],
+                        [
+                            45.47,
+                            9.19284
+                        ],
+                        [
+                            45.47,
+                            9.19284
+                        ],
+                        [
+                            45.47007,
+                            9.19292
+                        ],
+                        [
+                            45.47033,
+                            9.19319
+                        ],
+                        [
+                            45.47087,
+                            9.19373
+                        ],
+                        [
+                            45.47108,
+                            9.19395
+                        ],
+                        [
+                            45.47162,
+                            9.19449
+                        ],
+                        [
+                            45.47179,
+                            9.19464
+                        ],
+                        [
+                            45.47191,
+                            9.19473
+                        ],
+                        [
+                            45.472,
+                            9.19481
+                        ],
+                        [
+                            45.47229,
+                            9.19498
+                        ],
+                        [
+                            45.47236,
+                            9.19502
+                        ],
+                        [
+                            45.47241,
+                            9.19504
+                        ],
+                        [
+                            45.47252,
+                            9.19508
+                        ],
+                        [
+                            45.47256,
+                            9.19511
+                        ],
+                        [
+                            45.47262,
+                            9.19512
+                        ],
+                        [
+                            45.4727,
+                            9.19513
+                        ],
+                        [
+                            45.47289,
+                            9.19518
+                        ],
+                        [
+                            45.47314,
+                            9.19518
+                        ],
+                        [
+                            45.47338,
+                            9.19515
+                        ],
+                        [
+                            45.47347,
+                            9.19512
+                        ],
+                        [
+                            45.47414,
+                            9.19495
+                        ],
+                        [
+                            45.47419,
+                            9.19494
+                        ],
+                        [
+                            45.47428,
+                            9.19491
+                        ],
+                        [
+                            45.47436,
+                            9.1949
+                        ],
+                        [
+                            45.47441,
+                            9.19489
+                        ],
+                        [
+                            45.47447,
+                            9.19489
+                        ],
+                        [
+                            45.47451,
+                            9.19488
+                        ],
+                        [
+                            45.47504,
+                            9.1947
+                        ]
+                    ],
+                    "travelled": false
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.47504,
+                            9.1947
+                        ],
+                        [
+                            45.47504,
+                            9.1947
+                        ],
+                        [
+                            45.47515,
+                            9.19469
+                        ],
+                        [
+                            45.47532,
+                            9.19468
+                        ],
+                        [
+                            45.47542,
+                            9.19469
+                        ],
+                        [
+                            45.47551,
+                            9.19469
+                        ],
+                        [
+                            45.47557,
+                            9.19469
+                        ],
+                        [
+                            45.47562,
+                            9.1947
+                        ],
+                        [
+                            45.47578,
+                            9.19474
+                        ],
+                        [
+                            45.47591,
+                            9.19479
+                        ],
+                        [
+                            45.47601,
+                            9.19483
+                        ],
+                        [
+                            45.47614,
+                            9.19491
+                        ],
+                        [
+                            45.47622,
+                            9.19495
+                        ],
+                        [
+                            45.47637,
+                            9.19506
+                        ],
+                        [
+                            45.47642,
+                            9.19511
+                        ],
+                        [
+                            45.4766,
+                            9.19528
+                        ],
+                        [
+                            45.4769,
+                            9.19562
+                        ],
+                        [
+                            45.4779,
+                            9.1965
+                        ],
+                        [
+                            45.48008,
+                            9.19885
+                        ],
+                        [
+                            45.48008,
+                            9.19885
+                        ],
+                        [
+                            45.48008,
+                            9.19881
+                        ],
+                        [
+                            45.48199,
+                            9.20063
+                        ],
+                        [
+                            45.48373,
+                            9.20234
+                        ],
+                        [
+                            45.48398,
+                            9.20251
+                        ],
+                        [
+                            45.48443,
+                            9.20261
+                        ],
+                        [
+                            45.48443,
+                            9.20261
+                        ],
+                        [
+                            45.48443,
+                            9.20261
+                        ],
+                        [
+                            45.48567,
+                            9.20272
+                        ],
+                        [
+                            45.48652,
+                            9.20281
+                        ],
+                        [
+                            45.48713,
+                            9.20288
+                        ],
+                        [
+                            45.48761,
+                            9.20287
+                        ],
+                        [
+                            45.48789,
+                            9.2028
+                        ],
+                        [
+                            45.48827,
+                            9.20266
+                        ],
+                        [
+                            45.48867,
+                            9.20244
+                        ],
+                        [
+                            45.48904,
+                            9.20211
+                        ],
+                        [
+                            45.48934,
+                            9.20172
+                        ],
+                        [
+                            45.48956,
+                            9.20135
+                        ],
+                        [
+                            45.48999,
+                            9.20055
+                        ],
+                        [
+                            45.48999,
+                            9.20055
+                        ],
+                        [
+                            45.48998,
+                            9.20054
+                        ],
+                        [
+                            45.49084,
+                            9.19878
+                        ],
+                        [
+                            45.49115,
+                            9.1981
+                        ],
+                        [
+                            45.49131,
+                            9.19761
+                        ],
+                        [
+                            45.49155,
+                            9.19671
+                        ],
+                        [
+                            45.49266,
+                            9.1926
+                        ],
+                        [
+                            45.49266,
+                            9.1926
+                        ],
+                        [
+                            45.49266,
+                            9.19258
+                        ],
+                        [
+                            45.49315,
+                            9.19072
+                        ],
+                        [
+                            45.49331,
+                            9.19002
+                        ],
+                        [
+                            45.49355,
+                            9.18897
+                        ],
+                        [
+                            45.49369,
+                            9.18852
+                        ],
+                        [
+                            45.49382,
+                            9.18817
+                        ],
+                        [
+                            45.49396,
+                            9.18791
+                        ],
+                        [
+                            45.49409,
+                            9.18768
+                        ],
+                        [
+                            45.49444,
+                            9.18729
+                        ],
+                        [
+                            45.49475,
+                            9.18702
+                        ],
+                        [
+                            45.49605,
+                            9.18616
+                        ],
+                        [
+                            45.49768,
+                            9.18503
+                        ]
+                    ],
+                    "travelled": true
+                },
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.49768,
+                            9.18503
+                        ],
+                        [
+                            45.49769,
+                            9.18501
+                        ],
+                        [
+                            45.49811,
+                            9.18469
+                        ],
+                        [
+                            45.5011,
+                            9.18263
+                        ],
+                        [
+                            45.50426,
+                            9.18043
+                        ],
+                        [
+                            45.50507,
+                            9.17988
+                        ],
+                        [
+                            45.50553,
+                            9.1796
+                        ],
+                        [
+                            45.50553,
+                            9.1796
+                        ],
+                        [
+                            45.50553,
+                            9.1796
+                        ],
+                        [
+                            45.50594,
+                            9.17929
+                        ],
+                        [
+                            45.50663,
+                            9.17881
+                        ],
+                        [
+                            45.51052,
+                            9.17607
+                        ],
+                        [
+                            45.51355,
+                            9.17397
+                        ],
+                        [
+                            45.51355,
+                            9.17397
+                        ],
+                        [
+                            45.51355,
+                            9.17396
+                        ],
+                        [
+                            45.51692,
+                            9.17161
+                        ],
+                        [
+                            45.51753,
+                            9.17118
+                        ],
+                        [
+                            45.51819,
+                            9.17077
+                        ],
+                        [
+                            45.5189,
+                            9.17034
+                        ],
+                        [
+                            45.51972,
+                            9.16986
+                        ],
+                        [
+                            45.52017,
+                            9.1696
+                        ],
+                        [
+                            45.5205,
+                            9.16933
+                        ],
+                        [
+                            45.52108,
+                            9.1688
+                        ],
+                        [
+                            45.52168,
+                            9.16823
+                        ],
+                        [
+                            45.52168,
+                            9.16823
+                        ],
+                        [
+                            45.52168,
+                            9.16823
+                        ],
+                        [
+                            45.52304,
+                            9.16694
+                        ],
+                        [
+                            45.52481,
+                            9.16541
+                        ],
+                        [
+                            45.52556,
+                            9.16496
+                        ],
+                        [
+                            45.52657,
+                            9.16442
+                        ],
+                        [
+                            45.52813,
+                            9.16372
+                        ]
+                    ],
+                    "travelled": false
+                }
+            ],
+            "sources": [
+                {
+                    "provider": "ATM"
+                }
+            ],
+            "stopCode": "TURATI",
+            "location": {
+                "address": NaN,
+                "class": NaN,
+                "code": NaN,
+                "id": NaN,
+                "lat": NaN,
+                "lng": NaN,
+                "modeInfo": {
+                    "alt": NaN,
+                    "identifier": NaN,
+                    "localIcon": NaN
+                },
+                "name": NaN,
+                "popularity": NaN,
+                "publicTransportMode": NaN,
+                "region": NaN,
+                "services": NaN,
+                "stopCode": NaN,
+                "stopType": NaN,
+                "timezone": NaN,
+                "wheelchairAccessible": NaN
+            },
+            "duration": 7
+        }
+    },
+    {
+        "segment_id": "2mASoqkx",
+        "segment_data": {
+            "availability": "AVAILABLE",
+            "endTime": "2023-06-05 11:55:22",
+            "segmentTemplateHashCode": -114480969,
+            "startTime": "2023-06-05 11:53:00",
+            "routeDirection": NaN,
+            "routeID": NaN,
+            "routeId": NaN,
+            "serviceDirection": NaN,
+            "serviceName": NaN,
+            "serviceNumber": NaN,
+            "serviceShortName": NaN,
+            "serviceTripID": NaN,
+            "stops": NaN,
+            "ticketWebsiteURL": NaN,
+            "wheelchairAccessible": NaN,
+            "externalData": {
+                "directionId": NaN,
+                "operatorName": NaN,
+                "routeId": NaN,
+                "stopId": NaN,
+                "type": NaN
+            },
+            "serviceTextColor": {
+                "blue": NaN,
+                "green": NaN,
+                "red": NaN
+            },
+            "serviceColor": {
+                "blue": NaN,
+                "green": NaN,
+                "red": NaN
+            },
+            "action": "<TIME>: Walk",
+            "hashCode": -114480969,
+            "metres": 169.0,
+            "modeIdentifier": "wa_wal",
+            "notes": "<DURATION> \\u22c5 200 m",
+            "streets": [
+                {
+                    "encodedWaypoints": [
+                        [
+                            45.49768,
+                            9.18503
+                        ],
+                        [
+                            45.49772,
+                            9.1851
+                        ],
+                        [
+                            45.49761,
+                            9.18516
+                        ],
+                        [
+                            45.4976,
+                            9.18517
+                        ],
+                        [
+                            45.49758,
+                            9.18519
+                        ],
+                        [
+                            45.49757,
+                            9.18518
+                        ],
+                        [
+                            45.49763,
+                            9.1853
+                        ],
+                        [
+                            45.49766,
+                            9.18607
+                        ],
+                        [
+                            45.49765,
+                            9.18619
+                        ],
+                        [
+                            45.49769,
+                            9.18625
+                        ],
+                        [
+                            45.4977,
+                            9.18637
+                        ],
+                        [
+                            45.49774,
+                            9.18647
+                        ],
+                        [
+                            45.49774,
+                            9.18656
+                        ],
+                        [
+                            45.49774,
+                            9.1867
+                        ],
+                        [
+                            45.49774,
+                            9.18681
+                        ],
+                        [
+                            45.49764,
+                            9.1868
+                        ]
+                    ],
+                    "instruction": "HEAD_TOWARDS",
+                    "metres": 169,
+                    "name": "Walk"
+                }
+            ],
+            "travelDirection": 91.0,
+            "turn-by-turn": NaN,
+            "type": "unscheduled",
+            "visibility": "in summary",
+            "from": {
+                "address": "Maciachini",
+                "class": "StopLocation",
+                "lat": 45.49768,
+                "lng": 9.18503,
+                "region": "IT_Milano",
+                "timezone": "Europe/Rome",
+                "code": "MACIACHINI",
+                "id": "pt_pub|IT_Milano|MACIACHINI",
+                "modeInfo": {
+                    "alt": "subway",
+                    "identifier": "pt_pub_subway",
+                    "localIcon": "subway"
+                },
+                "name": "Maciachini",
+                "popularity": 1148.0,
+                "publicTransportMode": "pt_pub_subway",
+                "services": "",
+                "stopCode": "MACIACHINI",
+                "stopType": "subway",
+                "wheelchairAccessible": true
+            },
+            "localCost": {
+                "accuracy": "internal_estimate",
+                "cost": 0.0,
+                "currency": "EUR"
+            },
+            "mini": {
+                "description": "Near Piazzale Carlo Maciachini",
+                "instruction": "Walk",
+                "mainValue": "200 m"
+            },
+            "modeInfo": {
+                "alt": "Walk",
+                "color": {
+                    "blue": 99.0,
+                    "green": 199.0,
+                    "red": 30.0
+                },
+                "identifier": "wa_wal",
+                "localIcon": "walk"
+            },
+            "to": {
+                "address": "Near Piazzale Carlo Maciachini",
+                "class": "Location",
+                "code": NaN,
+                "id": NaN,
+                "lat": 45.49765,
+                "lng": 9.1868,
+                "modeInfo": {
+                    "alt": NaN,
+                    "identifier": NaN,
+                    "localIcon": NaN
+                },
+                "name": NaN,
+                "popularity": NaN,
+                "publicTransportMode": NaN,
+                "region": "IT_Milano",
+                "services": NaN,
+                "stopCode": NaN,
+                "stopType": NaN,
+                "timezone": "Europe/Rome",
+                "wheelchairAccessible": NaN
+            },
+            "endStopCode": NaN,
+            "geofences": NaN,
+            "operator": NaN,
+            "operatorID": NaN,
+            "serviceOperator": NaN,
+            "shapes": NaN,
+            "sources": NaN,
+            "stopCode": NaN,
+            "location": {
+                "address": NaN,
+                "class": NaN,
+                "code": NaN,
+                "id": NaN,
+                "lat": NaN,
+                "lng": NaN,
+                "modeInfo": {
+                    "alt": NaN,
+                    "identifier": NaN,
+                    "localIcon": NaN
+                },
+                "name": NaN,
+                "popularity": NaN,
+                "publicTransportMode": NaN,
+                "region": NaN,
+                "services": NaN,
+                "stopCode": NaN,
+                "stopType": NaN,
+                "timezone": NaN,
+                "wheelchairAccessible": NaN
+            },
+            "duration": 2
+        }
+    }
+]

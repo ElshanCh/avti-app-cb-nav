@@ -1,0 +1,47 @@
+version: '3.9'
+
+networks:
+  chatbot:
+    name: avti-cb-${DEPLOY_ENV}
+
+# pre install:
+# > export ENV=test
+# docker network create avti-fe-$ENV
+# docker network create avti-be-$ENV
+# docker network create avti-db-$ENV
+
+services:
+  mapservice:
+    cpus: 1
+    mem_limit: 1g
+    environment:
+      MY_ACCESS_TOKEN_GEOPS: ${CI_APP_MY_ACCESS_TOKEN_GEOPS}
+      MY_ACCESS_TOKEN_FLUCTUO: ${CI_APP_MY_ACCESS_TOKEN_FLUCTUO}
+      APP_HOST: 0.0.0.0
+      APP_PORT: ${MS_INTERNAL_PORT:-5000}
+    image: ${DOCKER_IMAGE}/mapservice:${DEPLOY_VERSION}-${DEPLOY_ENV}
+    restart: unless-stopped
+    networks:
+      chatbot: {}
+    ports:
+    - mode: ingress
+      target: ${MS_INTERNAL_PORT:-5000}
+      published: ${MS_EXPOSE_PORT:-15306}
+      host_ip: ${MS_EXPOSE_IF:-127.0.0.1}
+
+  skedgo:
+    cpus: 1
+    mem_limit: 1g
+    environment:
+      api_key: ${CI_APP_API_KEY}
+      APP_HOST: 0.0.0.0
+      APP_PORT: ${SG_INTERNAL_PORT:-5000}
+    image: ${DOCKER_IMAGE}/skedgo:${DEPLOY_VERSION}-${DEPLOY_ENV}
+    restart: unless-stopped
+    networks:
+      chatbot: {}
+    ports:
+    - mode: ingress
+      target: ${SG_INTERNAL_PORT:-5000}
+      published: ${SG_EXPOSE_PORT:-15305}
+      host_ip: ${SG_EXPOSE_IF:-127.0.0.1}
